@@ -1,6 +1,2 @@
-2023-12-02 16:30:24,086 --AdventOfCode2023-- INFO ['1', '2']
-2023-12-02 16:30:24,086 --AdventOfCode2023-- INFO ['3', '8']
-2023-12-02 16:30:24,086 --AdventOfCode2023-- INFO ['1', '2', '3', '4', '5']
-2023-12-02 16:30:24,086 --AdventOfCode2023-- INFO ['7']
-2023-12-02 16:30:24,086 --AdventOfCode2023-- INFO [12, 38, 15, 77]
-2023-12-02 16:30:24,086 --AdventOfCode2023-- INFO Final sum of calibration: 142
+2023-12-02 17:26:50,760 --AdventOfCode2023-- INFO Final sum of calibration Q1: 54601
+2023-12-02 17:26:50,764 --AdventOfCode2023-- INFO Final sum of calibration Q2: 54078
