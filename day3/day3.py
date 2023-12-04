@@ -138,8 +138,6 @@ def find_complete_number(num:dict, arr:list, coords_used):
 
         final_num = numbers_left + numbers_right
 
-        # logger.info(final_num)
-
         return final_num
 
 
