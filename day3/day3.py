@@ -371,5 +371,5 @@ def solve_puzzle_part_2():
     logger.info(f"Sum of all the gear numbers in engine schematic Q2: {answer}")
 
 if __name__ == '__main__':
-    # solve_puzzle_part_1()
+    solve_puzzle_part_1()
     solve_puzzle_part_2()
